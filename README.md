@@ -1,5 +1,5 @@
-h1 align="center">Hi 👋, I'm Mai Mạnh Huy<a href="https://github.com/manhhuy98" target="blank">
-Saurabh</a></h1>
+h1 align="center">Hi 👋, I'm <a href="https://github.com/manhhuy98" target="blank">
+Mai Mạnh Huy</a></h1>
 <h3 align="center">Deverloper Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhhuy98&label=Profile%20views&color=0e75b6&style=flat" alt="manhhuy98" /> </p>
